@@ -1,0 +1,29 @@
+{
+
+    "mainCfg":{
+
+        "bot_token":"",
+        "activity_name":"Verification Bot",
+        "serverId":"940631515769999430"
+
+    },
+
+    "setupCfg":{
+
+        "logsChannel_id":"",
+        "verifiedRole_id":"940631515795161121",
+        "commandNameSetup":"setup",
+        "commandDescription":"Sets up the Verification on this Server"
+
+    },
+
+    "embedCfg":{
+
+        "title_Embed": "Verification",
+        "desc_Embed": "Click on the Button to verify yourself!",
+        "footer_Embed": "SCK",
+        "color_Embed": "RANDOM"
+
+    }
+
+}
